@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lucas.gravisphere",
+      "sha256_cert_fingerprints": [
+        "89:17:56:16:17:68:54:6E:3B:4E:14:4B:37:07:1E:8D:8B:C6:8A:61:A5:ED:DC:A2:FD:DA:C2:55:6B:AC:96:D2",
+        "35:2E:F4:93:60:DC:0B:47:58:2C:33:8F:54:B0:D5:38:79:8E:0C:22:97:EE:DE:EE:1F:E2:6A:01:01:3B:59:E6"
+      ]
+    }
+  }
+]
